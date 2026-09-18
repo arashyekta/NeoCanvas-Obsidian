@@ -3,7 +3,7 @@
   "name": "NeoCanvas",
   "version": "0.1.0",
   "minAppVersion": "1.13.0",
-  "description": "A smoother and more intuitive UI/UX layer for Obsidian Canvas.",
+  "description": "A smoother and more intuitive workflow for Obsidian Canvas.",
   "author": "Arash Ramezani Yekta",
   "authorUrl": "https://github.com/arashyekta",
   "isDesktopOnly": false
