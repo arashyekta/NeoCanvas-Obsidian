@@ -1,11 +1,10 @@
 {
-  "id": "advanced-canvas",
-  "name": "Advanced Canvas",
-  "version": "7.0.0",
+  "id": "neo-canvas",
+  "name": "NeoCanvas",
+  "version": "0.1.0",
   "minAppVersion": "1.13.0",
-  "description": "Supercharge your canvas experience! Create presentations, flowcharts and more!",
-  "author": "Developer-Mike",
-  "authorUrl": "https://github.com/Developer-Mike",
-  "fundingUrl": "https://ko-fi.com/X8X27IA08",
+  "description": "A smoother and more intuitive UI/UX layer for Obsidian Canvas.",
+  "author": "Arash Ramezani Yekta",
+  "authorUrl": "https://github.com/arashyekta",
   "isDesktopOnly": false
 }
